@@ -56,12 +56,12 @@ $ roslaunch ar_controller ar_track.launch
 最後にサンプルコードを実行します。
 まずは新しいウィンドウを開き、シミュレータを起動しましょう。
 ```
-rosrun turtlesim turtlesim_node
+$ rosrun turtlesim turtlesim_node
 ```
 
 新しいウィンドウを開き、下記のようにのノードを実行してください。
 ```
-rosrun ar_controller ar_controller.py
+$ rosrun ar_controller ar_controller.py
 ```
 上記のコマンドを実行しただけではロボットは動きませんが、こちらのページにある真ん中のARタグ(ID4番)を認識するとロボットが動きます。
 
