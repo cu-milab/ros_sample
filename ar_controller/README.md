@@ -5,8 +5,8 @@ Intel Realsense R200により取得した画像からARタグを認識し、シ�
 
 ### 動作環境
 * Ubuntu 16.04
-* ROS Kinetic Kame Desktop-full
-** [ar_track_alvar](http://wiki.ros.org/ar_track_alvar)
+* ROS Kinetic Kame Desktop-full  
+** [ar_track_alvar](http://wiki.ros.org/ar_track_alvar)  
 ** [realsense_camera](http://wiki.ros.org/realsense_camera)
 
 ### 前準備
